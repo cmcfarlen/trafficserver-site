@@ -20,8 +20,8 @@ RSS:       /rss/releases.rss
 
 
 The latest stable release of Apache Traffic Server is v10.0.2, released on 2024-11-12.
-In addition, we continue to support the v9.2.x LTS release train, currently v9.2.6,
-which was released on 2024-11-12. We follow the [Semantic Versioning](http://semver.org)
+In addition, we continue to support the v9.2.x LTS release train, currently v9.2.7,
+which was released on 2024-11-26. We follow the [Semantic Versioning](http://semver.org)
 scheme. The goal is to release patch releases frequently, and minor releases as needed.
 Within the major versions, all such patch and minor releases are all compatible.
 
@@ -49,14 +49,14 @@ For details on the v10.x release, please see
 [10.x News](https://docs.trafficserver.apache.org/en/latest/release-notes/whats-new.en.html). There are also
 details about [upgrading to 10.x](https://docs.trafficserver.apache.org/en/latest/release-notes/upgrading.en.html).
 
-# Current v9.x Release -- 9.2.6 # {#9.2.6}
+# Current v9.x Release -- 9.2.7 # {#9.2.7}
 
- Apache Traffic Server v9.2.6 was released on July 25th, 2024.
- [[`PGP`](https://www.apache.org/dist/trafficserver/trafficserver-9.2.6.tar.bz2.asc)]
- [[`SHA512`](https://www.apache.org/dist/trafficserver/trafficserver-9.2.6.tar.bz2.sha512)]
+ Apache Traffic Server v9.2.7 was released on November 26th, 2024.
+ [[`PGP`](https://www.apache.org/dist/trafficserver/trafficserver-9.2.7.tar.bz2.asc)]
+ [[`SHA512`](https://www.apache.org/dist/trafficserver/trafficserver-9.2.7.tar.bz2.sha512)]
 
- <a href="https://www.apache.org/dyn/closer.cgi/trafficserver/trafficserver-9.2.6.tar.bz2"
- class="download_ts">Traffic Server 9.2.6</a>
+ <a href="https://www.apache.org/dyn/closer.cgi/trafficserver/trafficserver-9.2.7.tar.bz2"
+ class="download_ts">Traffic Server 9.2.7</a>
 
 For details on the v9.x release, please see
 [9.2.x News](https://docs.trafficserver.apache.org/en/9.2.x/release-notes/whats-new.en.html)
